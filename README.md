@@ -1,16 +1,20 @@
-## Hi there 👋
+# Mi sitio personal
+Este es mi sitio personal. Aquí puedes encontrar información sobre mí, mis
+proyectos y mis intereses.
 
-<!--
-**Kenkyo1/Kenkyo1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Contenido
+* [Información personal](#información-personal)
+* [Proyectos](#proyectos)
+* [Intereses](#intereses)
 
-Here are some ideas to get you started:
+## Información personal
+* Nombre: Angel Ariel Gómez Tumbaco
+* Ocupación: estudiante en la carrera de Ingenieria en Ciencias de la Computación
+* Lugar de residencia: Guayaquil, Ecuador
+* Sitio web: https://Kenkyo1.github.io
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos
+* [Lista de tus proyectos]
+
+## Intereses
+* [Lista de tus intereses]
