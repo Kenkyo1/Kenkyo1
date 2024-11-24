@@ -1,7 +1,8 @@
 # Mi Portafolio en GitHub Pages
 
-<img src="media/coding.jpg" alt="Imagen referencial de programación" style="width:50%; height:auto;">
-
+<div align="center">
+  <img src="media/coding.jpg" alt="Imagen referencial de programación" style="width:50%; height:auto;">
+</div>
 Bienvenido a mi página personal. Aquí podrás encontrar información sobre mí, mis proyectos y las tecnologías que he aprendido a lo largo del curso.
 
 ---
