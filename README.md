@@ -10,7 +10,7 @@ Bienvenido a mi página personal. Aquí podrás encontrar información sobre mí
 
 ## 🌟 Sobre Mí
 
-                                                  ![Duck dance](media/duckdance.gif "GIF Duck dance")
+![Duck dance](media/duckdance.gif "GIF Duck dance")
 
 Hola, soy un estudiante apasionado por el desarrollo de software y la tecnología. A lo largo de mi formación, he trabajado en diversos proyectos que han fortalecido mis habilidades técnicas y de colaboración.
 
